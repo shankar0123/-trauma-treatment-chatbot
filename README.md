@@ -45,11 +45,15 @@ python app.py
 
 After starting the Flask application, follow these steps:
 
-Open a web browser and navigate to http://localhost:5000.
+Open a web browser and navigate to http://localhost:5000
+
 Interact with the chatbot by typing your message into the input field and clicking 'Send'.
+
 The chatbot will respond based on the selected module (Trauma Literacy, Trigger Identification, or Narrative Switching).
 
+
 # Important Notes
+
 This chatbot is for experimental and educational purposes only.
 It is not a replacement for professional medical advice or therapy.
 User discretion is advised, especially when discussing sensitive topics.
