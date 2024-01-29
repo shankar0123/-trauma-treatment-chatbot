@@ -55,8 +55,11 @@ The chatbot will respond based on the selected module (Trauma Literacy, Trigger 
 # Important Notes
 
 This chatbot is for experimental and educational purposes only.
+
 It is not a replacement for professional medical advice or therapy.
+
 User discretion is advised, especially when discussing sensitive topics.
+
 Ensure compliance with data protection and privacy regulations.
 
 # Contributing
