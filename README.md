@@ -11,7 +11,9 @@ Narrative Switching for Healing: Guides users in shifting their narrative from v
 
 # Tech Stack
 Frontend: HTML, CSS, and JavaScript for the user interface.
+
 Backend: Python Flask server to handle web requests and interact with the OpenAI API.
+
 AI Model: OpenAI's GPT models for generating conversational responses.
 
 # Prequisites
