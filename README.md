@@ -27,16 +27,17 @@ OpenAI API Key
     git clone https://github.com/shankar0123/trauma-treatment-chatbot/tree/main
     cd trauma-treatment-chatbot
 
-3. Install Dependencies
+2. Install Dependencies
 
    pip install flask openai
 
-4. Configure the OpenAI API Key
+3. Configure the OpenAI API Key
 
-Set your OpenAI API key in app.py.
+Set your OpenAI API key in app.py
+
 Replace 'your-api-key' with your actual API key.
 
-5. Start the Flask Application
+4. Start the Flask Application
 
 python app.py
 
