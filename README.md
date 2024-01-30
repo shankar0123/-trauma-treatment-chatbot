@@ -62,9 +62,6 @@ User discretion is advised, especially when discussing sensitive topics.
 
 Ensure compliance with data protection and privacy regulations.
 
-# Contributing
-
-Contributions to the project are welcome. Please follow these steps:
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
